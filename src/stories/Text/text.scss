@@ -1,0 +1,15 @@
+@import './../../Styles.scss';
+
+.sass-text { font-family: 'Montserrat'; }
+
+.sass-text--heading { font-size: 40px; }
+.sass-text--subheading { font-size: 32px; }
+.sass-text--title { font-size: 28px; }
+.sass-text--subtitle { font-size: 24px; }
+.sass-text--body { font-size: 16px; }
+.sass-text--description { font-size: 14px; }
+.sass-text--small { font-size: 12px; }
+.sass-text--xsmall { font-size: 10px; }
+
+.sass-text--muted { color: #666; }
+.sass-text--bold { font-weight: 600; }
